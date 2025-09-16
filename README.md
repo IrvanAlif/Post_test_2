@@ -1,9 +1,40 @@
 ## Irvan Alif
 ## 2409116071
 ## kelas B
+
+
 ---
 
 Project ini bertema aplikasi manajemen data tanaman dan user sederhana berbasis console di Java. Program ini dibuat untuk latihan konsep OOP, di mana ada class untuk merepresentasikan tanaman dan user, lalu ada service untuk mengelola datanya. Semua fitur dijalankan lewat menu interaktif di console, seperti menambah, melihat, atau menghapus data. Aplikasi ini bisa jadi contoh dasar sistem manajemen data sederhana yang nantinya bisa dikembangkan lebih lanjut.
+
+---
+
+<img width="451" height="325" alt="image" src="https://github.com/user-attachments/assets/e532d2c4-8adc-47f1-993c-91a525c04516" />
+
+
+1. com.mycompany.post_test_2.main
+Tugas: Menjadi entry point aplikasi.
+Isi:
+Post_test_2.java – kelas utama yang memuat MenuView dan menampilkan menu utama.
+2. com.mycompany.post_test_2.model
+Tugas: Menyimpan struktur data (Plain Old Java Object / POJO).
+Isi:
+Tanaman.java – merepresentasikan satu tanaman hidroponik (nama, jenis, sistem, tanggal, status, pH, catatan).
+User.java – merepresentasikan satu pengguna (username, password, role, nama lengkap).
+3. com.mycompany.post_test_2.service
+Tugas: Business logic / Controller.
+Semua proses CRUD, validasi, login, logout, statistik, dan pencarian berada di sini.
+Isi:
+TanamanService.java – mengelola ArrayList tanaman: tambah, lihat, update, hapus, cari, statistik, validasi input.
+UserService.java – mengelola ArrayList user: login, logout, cek role, current user.
+4. com.mycompany.post_test_2.view
+Tugas: Presentation layer – interaksi konsol dengan pengguna.
+Isi:
+MenuView.java – menampilkan menu login & utama, membaca input keyboard, lalu memanggil service yang sesuai.
+
+---
+
+# *OUTPUT*
 
 ---
 1. Login sebagai admin
