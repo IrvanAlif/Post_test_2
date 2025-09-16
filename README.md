@@ -32,7 +32,29 @@ Project ini bertema aplikasi manajemen data tanaman dan user sederhana berbasis 
 <img width="587" height="520" alt="image" src="https://github.com/user-attachments/assets/1dd9ef7b-9790-4e0c-b803-d6a647fabe0a" />
 
 ---
-6. 
+6. Mencari tanaman
+
+<img width="513" height="556" alt="image" src="https://github.com/user-attachments/assets/82b9f1de-56f7-4a9e-99da-b66cf12965b0" />
+
+---
+7. Statistik tanaman
+
+<img width="676" height="677" alt="image" src="https://github.com/user-attachments/assets/48dfdeb5-98b6-4cff-823b-4b7b77ab1e4a" />
+
+---
+8. Menghapus tanaman di menu user
+
+<img width="960" height="430" alt="image" src="https://github.com/user-attachments/assets/3fc83b53-b674-44ef-817c-a74f644c9072" />
+
+---
+9. Keluar
+
+<img width="798" height="417" alt="image" src="https://github.com/user-attachments/assets/42a6f845-5260-4f35-b04e-6a97e3668561" />
+
+---
+10. Menghapus tanaman di menu admin
+
+
 
 
 
