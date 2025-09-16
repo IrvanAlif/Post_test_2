@@ -54,7 +54,8 @@ Project ini bertema aplikasi manajemen data tanaman dan user sederhana berbasis 
 ---
 10. Menghapus tanaman di menu admin
 
-<img width="648" height="522" alt="image" src="https://github.com/user-attachments/assets/13adcbbc-015c-4245-b22d-d9aa33500e33" />
+<img width="843" height="456" alt="image" src="https://github.com/user-attachments/assets/64d22d49-3f76-47c2-82e3-7d3811b0d1f5" />
+
 
 ---
 
